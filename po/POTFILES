@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.kv2013.gtk-hello-again.desktop.in
+data/com.github.kv2013.gtk-hello-again.appdata.xml.in

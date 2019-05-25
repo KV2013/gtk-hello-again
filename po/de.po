@@ -1,0 +1,51 @@
+# German translations for com.github.kv2013.gtk-hello-again package.
+# Copyright (C) 2019 THE com.github.kv2013.gtk-hello-again'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.kv2013.gtk-hello-again package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.kv2013.gtk-hello-again\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-25 23:18+0500\n"
+"PO-Revision-Date: 2019-05-25 23:18+0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:32
+msgid "И снова здрасте! ;)"
+msgstr ""
+
+#: src/Application.vala:36
+#: data/com.github.kv2013.gtk-hello-again.appdata.xml.in:6
+msgid "Привет Мир!"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.desktop.in:3
+msgid "И снова здрасти! ;)"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.desktop.in:4
+msgid "Hello World App"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.desktop.in:5
+msgid "Стартовый пример приложения на Vala и Gtk"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.desktop.in:10
+msgid "Hello;World;Example;"
+msgstr ""
+
+#: data/com.github.kv2013.gtk-hello-again.appdata.xml.in:7
+msgid "Пробуем писать приложение для ElementaryOS"
+msgstr ""
