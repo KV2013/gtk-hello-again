@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=И снова здрасти! ;)
+GenericName=Hello World App
+Comment=Стартовый пример приложения на Vala и Gtk
+Categories=Utility;Education;
+Exec=com.github.kv2013.gtk-hello-again
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
